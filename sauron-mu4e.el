@@ -2,9 +2,9 @@
 
 ;; Copyright (C) 2017  Sébastien Le Maguer
 
-;; Author: Sébastien Le Maguer <slemaguer@coli.uni-saarland.de>
-;; Keywords: buffer, convenience, comm
-;; Package-Requires: ((cl-lib "0.2"))
+;; Author: Sébastien Le Maguer
+;; Keywords: notification, convenience, comm
+;; Package-Requires: ()
 ;; X-URL: https://github.com/seblemaguer/sauron-mu4e
 ;; URL: https://github.com/seblemaguer/sauron-mu4e
 ;; Version: 0.1
