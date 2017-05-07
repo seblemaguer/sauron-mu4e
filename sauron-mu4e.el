@@ -4,7 +4,7 @@
 
 ;; Author: Sébastien Le Maguer
 ;; Keywords: notification, convenience, comm
-;; Package-Requires: ()
+;; Package-Requires: ((sauron "20160501"))
 ;; X-URL: https://github.com/seblemaguer/sauron-mu4e
 ;; URL: https://github.com/seblemaguer/sauron-mu4e
 ;; Version: 0.1
